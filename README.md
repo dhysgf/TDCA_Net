@@ -19,7 +19,7 @@ pip install typing
 pip install logging
 pip install random
 pip install dataclasses
-##🔗 Citation
+## 🔗Citation
 @inproceedings{pang 2026 TDCA-Net,
     title={{TD}CA-Net:  TDCA-Net: A Synergistic Framework Integrating Task-Discriminant Component Analysisand Lightweight Convolutional Neural Networks for High-Speed {SSVEP} Recognition },
     author={Pang and Tang },
